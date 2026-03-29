@@ -25,6 +25,7 @@
 > [!WARNING]
 > **Перед запуском** рекомендуется отключить антивирус и Windows Defender / брандмауэр.  
 
+
 ## 🎮 Интерфейс `STARTME.bat`
 
 <img width="551" height="263" alt="Интерфейс STARTME.bat" src="https://github.com/user-attachments/assets/de66f04f-f7d3-4e80-b635-b4599dfefa02" />
